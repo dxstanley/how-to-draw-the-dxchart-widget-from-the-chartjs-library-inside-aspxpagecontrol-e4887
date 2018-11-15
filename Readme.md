@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [chart.js](./CS/chart.js) (VB: [chart.js](./VB/chart.js))
+* [Default.aspx](./CS/Default.aspx) (VB: [Default.aspx.vb](./VB/Default.aspx.vb))
+* [Default.aspx.cs](./CS/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/Default.aspx.vb))
+<!-- default file list end -->
 # How to draw the dxChart widget from the ChartJS library inside ASPxPageControl 
 
 
