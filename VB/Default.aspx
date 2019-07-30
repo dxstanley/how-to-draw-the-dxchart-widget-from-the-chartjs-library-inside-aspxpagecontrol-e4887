@@ -9,9 +9,9 @@
 <head runat="server">
     <title>How to draw a chart</title>
      <!-- ===================== ChartJS Framework ===================================================== -->
-    <script type="text/javascript" src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.9.1.min.js"></script>
-    <script type="text/javascript" src="http://ajax.aspnetcdn.com/ajax/globalize/0.1.1/globalize.min.js"></script>
-    <script type="text/javascript" src="http://cdn3.devexpress.com/jslib/13.1.6/js/dx.chartjs.js"></script>
+    <script type="text/javascript" src="https://code.jquery.com/jquery-1.9.1.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/globalize/0.1.1/globalize.min.js"></script>
+    <script type="text/javascript" src="https://cdn3.devexpress.com/jslib/13.1.6/js/dx.chartjs.js"></script>
     <!-- ============================================================================================= -->
     <script type="text/javascript" src="chart.js"></script>
 </head>
